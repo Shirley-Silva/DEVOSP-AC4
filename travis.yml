@@ -1,4 +1,4 @@
-language:python
+language: python
 python:
 _"3.4"
 script:
